@@ -2,7 +2,7 @@
 
 **My name is Kai Leslie, and welcome to my page!**
 
-I'm a Software Engineer with over 5 years of professional experience in the Video Game industry. I've helped develop two shipped titles on Steam, and I've contributed to many student projects over the years. I also have firsthand console experience with Xbox Series X|S, PS5, and Nintendo Switch.
+I'm a Software Engineer with over 5 years of professional experience in the Video Game industry. I've helped develop two shipped titles on Steam, and I've contributed to many projects over the years. I also have firsthand console experience with Xbox Series X|S, PS5, and Nintendo Switch.
 
 I'm open to mid to senior-level engine or gameplay engineering roles!
 
